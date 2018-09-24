@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <!-- SCALE THIS APP TO FIT THE VIEWPORT OF DIFFERENT SIZE BROWSER WINDOWS. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GwG-Udacity Scholarship: Project 3, Classic Arcade Game</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+    
+    
+<body>    
+    <div>   <!-- THE GAME THEME, RULES, AND INSTRUCTIONS BUTTON -->
+        <button class="gameThemeBtn" onclick="GameThemeBtn()">click here and read the game rules</button>
+    </div>
+
+    <div>   <!-- THE GAME'S TITLE. ALSO, THE TWO DYNAMICALLY-GENERATED MESSAGES WHEN WATERGIRL EITHER WINS OR LOSES THE GAME --> 
+        <h3 id="gameTitle">Please help waterGirl make it home safely!</h3>   
+        <h2 id="loseGameMsg">the landBugs ate waterGirl ... R.I.P. </h2>
+        <h2 id="winGameMsg">Yeeeaaa! wateraGirl Safely Made It Home !!!</h2>
+    </div>
+    
+    
+    
+<!--    THIS EXPLAINS THE GAME'S THEME, INSTRUCTIONS, AND THE GAME RULES.-->
+    <p id="gameTheme">                 
+        <span style="font-size:20px; color:red"><strong>waterGirl only has '5 Lives' to make it home safely!</strong></span><br/><br/>The loving aquatic family of<br><span><em><strong>waterGirl lives at the bottom of the world in the Pacific ocean.</strong></em></span><br>Her aquatic family can only survive on dry land for a short time.<br/><br/>waterGirl is headed home from<br><span><em><strong>visiting her best friend at the top of the world in the Atlantic ocean.</strong></em></span><br>They fear the gigantic landBugs that eat the waterPeople!<br/><br/>Can she safely cross the hard gravel roads and thick grassy weeds ??<br/>Can waterGirl return home without being eaten by the landBugs ?
+        <br/><span><strong><em>If she fails it will be ..... Rest in Peace for waterGirl!</em></strong></span>
+    </p> 
+        
+    
+    
+    <script src="js/resources.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/engine.js"></script>    
+</body>
+</html>
