@@ -23,20 +23,20 @@ How-to Play this Arcade Game..
 ----------------------------------------------------
 waterGirl has 5 lives to make it safely home from the top of the world(Atlantic Ocean) back to the bottom of the world(Pacific Ocean). she loses a life 'each time' she collides with a landBug. She gets eaten by the landBug if she collides 5 times. 
 
-However, if waterGirl makes it all the way to the Pacific Ocean without colliding with a landBug, then the player (You) wins the game. The player will receive 3 different messages to update your progress. The messages are: 1)You lose a life, 2)you lose the game, or 3)you win.
+However, if waterGirl makes it all the way to the Pacific Ocean without colliding with a landBug, then the player (You) wins the game. The player will receive 3 different popUp messages to update your progress. The messages are: 1)You lose a life, 2)you lose the game, or 3)you win the game. If the player loses a life, the popUp messeages will keep track of how many lives waterGirl has left!
 - - - - - - - - - -
 Some Creative Changes i made to make this game more Challenging are:
 -------------------------------------------------------------------
 *Make The Game 95% Hands-Free!
-The main creative focus driving my version of this game was to make it 95% hands-free for the players. That allows the players to focus 95% of their hand movements on using the 'arrow keys' to "safely navigate waterGirl", instead of deleting popUps, modals, 'X's, or buttons, etc. If the players have to constantly stop to remove 'event messages' displayed during the game, then the player has to mentally and emotionally re-focus their energy each time they move their hand from the 'arrow keys', over to the 'mouse', and then back over to the 'arrow keys'. 
+The main creative focus driving my vision on this game was to make it 95% hands-free for the players. That allows the players to focus 95% of their hand movements on using the 'arrow keys' to "safely navigate waterGirl", instead of deleting popUps, modals, 'X's, or buttons, etc. If the players have to constantly stop to remove 'event messages' displayed during the game, then the player has to mentally and emotionally re-focus their energy each time they move their hand from the 'arrow keys', over to the 'mouse', and then back over to the 'arrow keys'. 
 
-This distraction has been eliminated by automating this game's four 'event messages' which are: a)the player loses a Life, b)the player loses the game after losing 5 lives, c)the player wins the game if waterGirl safely and successfully makes it home from the 'top of the world' to the 'bottom of the world' without being eaten by the 'landBugs', and finally lol, d)the 'rules of the game and the theme of the game' button. I used the 'setTimeout method' to automate the opening and closing of each 'event message' so that the players can keep their fingers positioned on the 'arrow keys' tne entire game. The automation also allows them to focus 100% of their energy ONLY on winning the game. 
+This distraction has been eliminated by automating this game's four 'event messages' which are: a)the player loses a Life, b)the player loses the game after losing 5 lives, c)the player wins the game if waterGirl safely and successfully makes it home, and finally, d)the 'rules and the theme of the game' button. I used the 'setTimeout method' to automate the opening and closing of each 'event message' so that the players can keep their fingers positioned on the 'arrow keys' tne entire game. The automation also allows them to focus 95% of their energy ONLY on winning the game. 
 
-*Create a Game Theme that makes the players compassionate waterGirl's safety!
+*The purpose of the theme is to create a desire that makes the players compassionate about waterGirl's safety!
     
-*Created a different Scenery to make the game even more challenging than before! 
+*I re-arranged a different Scenery to make the game more challenging! 
 
-*Added a 4th landBug to evade to make it more difficult for waterGirl while returning home.
+*I added a 4th landBug to make it more difficult for waterGirl while returning home.
 
 *Display a countdown of the number of lives waterGirl has left after being eaten by each landBug.
 
@@ -44,4 +44,4 @@ This distraction has been eliminated by automating this game's four 'event messa
 
 *I re-arranged the rowImages to fit my 'game theme' and to create a more challenging trek across the roads, water, and grasslands. Re-arranged from 1-water, 3-stone, 2-grass ..... to 1-water(Atlantic Ocean), 2-stone(landBug turf), 2-grass(landBug turf), and 1-more water(Pacific Ocean).
 
-*Reduced the canvas.height from 606 to 515 to help the canvas fit more squarely and centered on the body. The canvas would briefly overlap the page whenever the height of my display messages would render.
+*Reduced the canvas.height from 606 to 515 to help the canvas fit more squarely and centered on the body. The problem was that a portion of the canvas would briefly 'move off of the screen' whenever the height of my display messages would render.
