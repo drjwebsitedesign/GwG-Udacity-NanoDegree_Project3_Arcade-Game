@@ -1,27 +1,32 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-###Project-4 The rubric for the Grow-with-Google Udacity Nanodegree Scholarship.###
+Project-3 The rubric for the Grow-with-Google Udacity Nanodegree Scholarship.
+-----------------------------------------------------------------------------
 Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** is updated with your instructions on both how to 1. Run and 2. Play your arcade game. 
 
 Click here to see a 3-min youtube video of the [Arcade Game](https://www.youtube.com/watch?v=dIu40myH9CY) uploaded by Esther Kim.
 - - - - - - - - - -
-###The Technologies used to build this game.###
+The Technologies used to build this game.
+-----------------------------------------------
 This game was built with pure vanilla html, css, and es6 javascript.
 - - - - - - - - - -
-###How-to Play this Arcade Clone frogger Game.###
+How-to Play this Arcade Clone frogger Game.
+-------------------------------------------
 waterGirl only has '5 Lives' to make it home safely! waterGirl's loving aquatic family lives at the bottom of the world in the Pacific ocean. Her aquatic family can only survive on dry land for a short time. 
 
 waterGirl is headed home from visiting her best friend at the top of the world in the Atlantic ocean. They both fear the gigantic landBugs that eat the waterPeople to survive! 
 
 Can waterGirl return home without being eaten by the landBugs?? Can she safely cross the hard gravel roads and thick grassy weeds?? If she fails it will be ..... Rest in Peace for waterGirl!
 
-#####The Challenges for the Players against the landBugs.###
+The Challenges for the Players against the landBugs.
+----------------------------------------------------
 waterGirl has 5 lives to make it safely home from the top of the world(Atlantic Ocean) back to the bottom of the world(Pacific Ocean). she loses a life 'each time' she collides with a landBug. She gets eaten by the landBug if she collides 5 times. 
 
 However, if waterGirl makes it all the way to the Pacific Ocean without colliding with a landBug, then the player (You) wins the game. The player will receive 3 different messages to update your progress. The messages are: 1)You lose a life, 2)you lose the game, or 3)you win.
 - - - - - - - - - -
-###Some Creative Changes i made to make the game more Challenging are:####
+Some Creative Changes i made to make the game more Challenging are:
+-------------------------------------------------------------------
 *Make The Game 95% Hands-Free!
 The main creative focus driving my version of this game was to make it 95% hands-free for the players. That allows the players to focus 95% of their hand movements on using the 'arrow keys' to "safely navigate waterGirl", instead of deleting popUps, modals, 'X's, or buttons, etc. If the players have to constantly stop to remove 'event messages' displayed during the game, then the player has to mentally and emotionally re-focus their energy each time they move their hand from the 'arrow keys', over to the 'mouse', and then back over to the 'arrow keys'. 
 
