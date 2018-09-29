@@ -9,7 +9,7 @@ Click here to see a 3-min youtube video of the [Arcade Game](https://www.youtube
 - - - - - - - - - -
 The Technologies used to build this game.
 -----------------------------------------------
-This game was built with pure vanilla html, css, and es6 javascript.
+This game was built with pure html, css, and es6 javascript. No frameworks, libraries, dependencies or used here.
 - - - - - - - - - -
 The Theme of this Arcade Game.
 -------------------------------------------
