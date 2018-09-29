@@ -24,6 +24,8 @@ How-to Play this Arcade Game..
 waterGirl has 5 lives to make it safely home from the top of the world(Atlantic Ocean) back to the bottom of the world(Pacific Ocean). she loses a life 'each time' she collides with a landBug. She gets eaten by the landBug if she collides 5 times. 
 
 However, if waterGirl makes it all the way to the Pacific Ocean without colliding with a landBug, then the player (You) wins the game. The player will receive 3 different popUp messages to update your progress. The messages are: 1)You lose a life, 2)you lose the game, or 3)you win the game. If the player loses a life, the popUp messeages will keep track of how many lives waterGirl has left!
+
+The players use the 4 arrow keys to move waterGirl around on the board. The up - down - left - and the right arrow keys. 
 - - - - - - - - - -
 Some Creative Changes i made to make this game more Challenging are:
 -------------------------------------------------------------------
