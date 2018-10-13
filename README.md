@@ -18,7 +18,7 @@ How-to load and run this game.
 How-to run the game: The game is already loaded and ready to play. Use the up/down arrow keys to move waterGirl vertically from the top to the bottom of the world. Use the left/right keys to move waterGirl horizontally on the rows from left to right. You can also use the 'refresh arrow' at any time to refresh the game.
 Click here to play this Classic Arcade Game in your browser: (https://drjwebsitedesign.github.io/P3_Classic-Arcade-Game/)
 
-Click here to see a 3-min youtube video of the basic [Arcade Game](https://www.youtube.com/watch?v=dIu40myH9CY) uploaded by Esther Kim.
+Click here to see a 3-min youtube video of the basic [Arcade Game](https://drjwebsitedesign.github.io/Project2_Memory-Game_Google-Udacity-NanoDegree/) uploaded by Esther Kim.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
