@@ -16,7 +16,7 @@ This game was built with semantic html5, pure css, and vanilla es6 javascript. N
 How-to load and run this game.
 ----------------------------------------------
 How-to run the game: The game is already loaded and ready to play. Use the up/down arrow keys to move waterGirl vertically from the top to the bottom of the world. Use the left/right keys to move waterGirl horizontally on the rows from left to right. You can also use the 'refresh arrow' at any time to refresh the game.
-Click here to play this Classic Arcade Game in your browser: ( https://drjwebsitedesign.github.io/P3_Arcade-Game_Google-Udacity-NanoDegree/)
+Click here to play this Classic Arcade Game in your browser: ( https://drjwebsitedesign.github.io/GwG-Udacity-NanoDegree_Project3_Arcade-Game/)
 
 Click here to see a 3-min youtube video of the basic [Arcade Game](https://www.youtube.com/watch?v=dIu40myH9CY) uploaded by Esther Kim.
 
